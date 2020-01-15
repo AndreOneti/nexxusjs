@@ -1,0 +1,31 @@
+{
+  "name": "nexxusjs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreOneti/nexxusjs.git"
+  },
+  "keywords": [
+    "express",
+    "expressjs",
+    "rest",
+    "rest-api",
+    "server"
+  ],
+  "author": "Andre Oneti",
+  "bugs": {
+    "url": "https://github.com/AndreOneti/nexxusjs/issues"
+  },
+  "homepage": "https://github.com/AndreOneti/nexxusjs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {}
+}
